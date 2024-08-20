@@ -1,6 +1,7 @@
 # ToDoList
 
 ## Overview
+![image](https://github.com/user-attachments/assets/d4196591-ab90-4c14-81a9-ca5b294267a0)
 
 The **ToDoList** project is a simple yet effective web application that allows users to manage their daily tasks. This application provides an intuitive interface for adding, deleting, and marking tasks as completed. It's designed with a clean user interface and smooth user experience in mind, making it easy for anyone to keep track of their to-do items.
 
